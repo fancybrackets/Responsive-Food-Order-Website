@@ -1,7 +1,5 @@
 # Responsive-Food-Order-Website
 
-# Responsive-Food-Order-Website
-
 # LIVE DEMO : 
 # TABLETS :
 ![image](https://user-images.githubusercontent.com/125455986/230918385-7215bf72-f5c3-4c3f-9072-f8e933a78732.png)
